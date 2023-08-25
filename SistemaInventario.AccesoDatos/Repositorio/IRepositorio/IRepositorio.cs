@@ -24,7 +24,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio.IRepositorio
 
         Task Agregar(T entidad);
         
-        void remover(T entidad);
+        void Remover(T entidad);
 
         void Removerrenago(IEnumerable<T> entidad);
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ACHf8FddAS7Yiv75tebR+yeQfqLX67vKwTdRREMinAU=",
+  "Hash": "QXnUAEW/Z7SbSI1MffqVBa0P3dLk+7aRlSnJRC6gW8g=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Richy_Flame\\Desktop\\CursosPlatzi\\Web ASP-NET Core\\Proyecto\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\Bodega.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Richy_Flame\\Desktop\\CursosPlatzi\\Web ASP-NET Core\\Proyecto\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/Bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Bodega.js"
     },
     {
       "Identity": "C:\\Users\\Richy_Flame\\Desktop\\CursosPlatzi\\Web ASP-NET Core\\Proyecto\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

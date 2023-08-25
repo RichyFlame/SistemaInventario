@@ -75,7 +75,7 @@ namespace SistemaInventario.AccesoDatos.Repositorio
             return await query.FirstOrDefaultAsync();
         }
 
-        public void remover(T entidad)
+        public void Remover(T entidad)
         {
             dbSet.Remove(entidad);
         }
